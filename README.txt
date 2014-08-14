@@ -1,6 +1,3 @@
-Hello! I made this like at 10:52am on Aug 14
-Made a second modification to see if I need to git add again on 10:54 on Aug 14
-Wait do I need to add again?
-Yes
-Again!
-Change without adding
+Subfolder1 should not be changed
+Subfolder2 should not be changed
+Subfolder3 with the branch is the one that can be changed.
